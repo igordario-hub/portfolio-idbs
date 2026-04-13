@@ -5,7 +5,7 @@ import { Code2, Menu, X } from 'lucide-react'
 const links = [
   { to: '/', label: 'Início' },
   { to: '/sobre', label: 'Sobre' },
-  { to: '/portfolio', label: 'Portfólio' },
+  { to: '/portfolio', label: 'Projetos' },
 ]
 
 export default function Navbar() {

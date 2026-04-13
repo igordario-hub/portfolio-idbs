@@ -1,17 +1,17 @@
 export const projects = [
   {
     id: 1,
-    name: "Sistema de Gestão de Tarefas",
+    name: "LIACLI",
     discipline: "DS",
     description:
-      "Aplicação web para gerenciamento de tarefas e projetos em equipe, desenvolvida como projeto da disciplina de Desenvolvimento de Software.",
+      "Sistema web desenvolvido para digitalizar e automatizar os processos internos do Laboratório de Análises Clínicas LIACLI, eliminando controles manuais e melhorando a experiência do paciente.",
     objective:
-      "Oferecer uma solução para organização e acompanhamento de tarefas, com controle de responsáveis, prazos e status de cada entrega.",
+      "Modernizar o laboratório com módulos de agendamento online, cadastro digital com adequação à LGPD, geração e envio automático de laudos, e gestão administrativa e financeira integrada.",
     image: null,
-    tags: ["React", "Node.js", "PostgreSQL"],
+    tags: [],
     repo: null,
-    prototype: null,
+    prototype: "https://claude.ai/public/artifacts/72acc92a-4cc4-4b1a-aed4-911c2ba1d231",
     learnings:
-      "Prática de metodologias ágeis, trabalho em equipe, integração front-end/back-end e aplicação de boas práticas de engenharia de software.",
+      "Levantamento de requisitos reais, modelagem de sistemas clínicos, integração de módulos complexos e aplicação de boas práticas de segurança de dados.",
   },
 ]

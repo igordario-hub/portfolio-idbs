@@ -23,7 +23,7 @@ export default function Home() {
               to="/portfolio"
               className="flex items-center gap-2 bg-white text-blue-700 font-semibold px-5 py-2.5 rounded-lg hover:bg-blue-50 transition shadow"
             >
-              Ver Portfólio <ArrowRight size={16} />
+              Ver Projetos <ArrowRight size={16} />
             </Link>
             <Link
               to="/sobre"
